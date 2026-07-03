@@ -225,14 +225,36 @@ Agile Project Factory VI
 
 <h2 align="center">Contact</h2>
 
-<p align="center">
-  <strong>LinkedIn:</strong> in/andreluiswa1
-</p>
+<table align="center">
+  <tr>
 
-<p align="center">
-  <strong>Email:</strong> andreluis1wa@gmail.com
-</p>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/andreluiswa1" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+        <br>
+        LinkedIn
+      </a>
+    </td>
 
-<p align="center">
-  <strong>Google Dev:</strong> https://g.dev/andreluiswa
-</p>
+    <td align="center" width="120">
+      <a href="mailto:andreluis1wa@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+        <br>
+        Email
+      </a>
+    </td>
+
+    <td align="center" width="120">
+      <a href="https://g.dev/andreluiswa" target="_blank">
+        <!-- Google simples com "G" minimalista -->
+        <svg width="45" height="45" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="48" fill="#ffffff"/>
+          <text x="50%" y="55%" text-anchor="middle" font-size="50" font-family="Arial" fill="#000000" dy=".1em">G</text>
+        </svg>
+        <br>
+        Google
+      </a>
+    </td>
+
+  </tr>
+</table>
