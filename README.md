@@ -226,23 +226,13 @@ Agile Project Factory VI
 <h2 align="center">Contact</h2>
 
 <p align="center">
+  <strong>LinkedIn:</strong> in/andreluiswa1
+</p>
 
-  <a href="https://www.linkedin.com/in/andreluiswa1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-    <br>
-    LinkedIn
-  </a>
+<p align="center">
+  <strong>Email:</strong> andreluis1wa@gmail.com
+</p>
 
-  <a href="mailto:andreluis1wa@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-    <br>
-    Email
-  </a>
-
-  <a href="https://g.dev/andreluiswa" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="40" />
-    <br>
-    Google Dev
-  </a>
-
+<p align="center">
+  <strong>Google Dev:</strong> https://g.dev/andreluiswa
 </p>
