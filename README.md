@@ -226,15 +226,27 @@ Agile Project Factory VI
 <h2 align="center">Contact</h2>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/andreluiswa1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
+  <br>
+  <a href="https://www.linkedin.com/in/andreluiswa1" target="_blank">LinkedIn</a>
+
+  <br><br>
 
   <a href="mailto:andreluis1wa@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
+  <br>
+  <a href="mailto:andreluis1wa@gmail.com" target="_blank">Email</a>
+
+  <br><br>
 
   <a href="https://g.dev/andreluiswa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=google" />
+    <img src="https://www.svgrepo.com/show/353817/google.svg" width="40" />
   </a>
+  <br>
+  <a href="https://g.dev/andreluiswa" target="_blank">Google Developer</a>
+
 </p>
