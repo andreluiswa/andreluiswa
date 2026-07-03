@@ -238,7 +238,7 @@ Agile Project Factory VI
   <a href="mailto:andreluis1wa@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
     <br>
-    Email
+    andreluis1wa@gmail.com
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
