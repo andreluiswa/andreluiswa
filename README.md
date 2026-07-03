@@ -54,7 +54,7 @@ Technologies and tools I use to build applications and automate workflows.
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,cursor" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
 
 <p align="center">
