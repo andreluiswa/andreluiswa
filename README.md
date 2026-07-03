@@ -15,7 +15,7 @@
 
 ---
 
-## About
+<h2 align="center">About</h2>
 
 <p align="center">
 I'm a Systems Analysis and Development student at <strong>UNIMAR</strong>, currently working as an <strong>IT Intern</strong> at the <strong>São Paulo State Court of Accounts (TCESP)</strong>.
@@ -27,28 +27,32 @@ I enjoy building full-stack applications, automating workflows, and exploring te
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
 Technologies and tools I use to build applications and automate workflows.
 </p>
 
-### Frontend
+<h3 align="center">Frontend</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,bootstrap" />
 </p>
 
-### Backend
+<h3 align="center">Backend</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,cs,dotnet" />
 </p>
 
-### Database
+<h3 align="center">Database</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
-### Tools
+<h3 align="center">Tools</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
@@ -57,7 +61,8 @@ Technologies and tools I use to build applications and automate workflows.
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
-### Design
+<h3 align="center">Design</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
@@ -66,18 +71,15 @@ Technologies and tools I use to build applications and automate workflows.
   <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" />
 </p>
 
-### Currently Learning
+<h3 align="center">Currently Learning</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,docker,tailwind,fastapi,azure,aws,assembly" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,docker,tailwind,fastapi,azure,aws" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="./assets/divider.png" width="80%" />
-</p>
-
-## Experience
+<h2 align="center">Experience</h2>
 
 <h3 align="center">IT Intern</h3>
 
@@ -87,102 +89,134 @@ Marília, São Paulo • Present
 </p>
 
 <p align="center">
-I work in the IT department supporting internal systems and process automation. My role focuses on improving operational efficiency through automation, data handling and technical support, contributing directly to the standardization of internal workflows.
+As an IT Intern at the São Paulo State Court of Accounts (TCESP), I contribute to the development of internal solutions focused on automation, productivity and process standardization, helping optimize day-to-day operations across the organization.
 </p>
 
 <p align="center">
-My activities include developing automation solutions using <strong>VBA</strong>, <strong>Windows Batch</strong> and scripting for file processing, organization and workflow optimization. I also work with data analysis, transforming operational data into structured and usable information for internal processes.
+My responsibilities include developing automation routines using <strong>VBA</strong>, <strong>Windows Batch</strong> and batch scripting to eliminate repetitive tasks, process and organize files, automate internal workflows and improve operational efficiency. I also perform data analysis, transforming operational information into structured, reliable and efficient processes.
 </p>
 
 <p align="center">
-I participate in the analysis and creation of prompts for the institution’s internal AI systems, improving prompt quality, structure and effectiveness. This contributes to better AI-assisted workflows across the organization.
+Another important part of my work is evaluating and creating prompts for the institution's proprietary Artificial Intelligence platform. This involves analyzing AI responses, refining prompt structures and contributing to the continuous improvement of AI-assisted workflows used internally.
 </p>
 
 <p align="center">
-Additionally, I help develop and maintain <strong>Standard Operating Procedures (SOPs)</strong>, ensuring documentation consistency and process standardization. I also provide technical support to users and assist in resolving software-related issues.
+I am responsible for creating and maintaining <strong>Standard Operating Procedures (SOPs)</strong>, ensuring documentation quality, operational consistency and process standardization throughout the IT department. Additionally, I provide technical support to users, assist with software-related issues and help implement digital solutions that improve the organization's daily workflow.
 </p>
 
 <p align="center">
-I also use tools such as <strong>Microsoft Power BI</strong> and <strong>Microsoft Power Automate</strong> to support reporting, automation and data-driven processes.
+My daily activities also involve using <strong>Microsoft Power BI</strong> and <strong>Microsoft Power Automate</strong> to support data analysis, reporting and workflow automation whenever applicable.
 </p>
 
 <p align="center">
-Focused on automation, process optimization, and enterprise productivity.
+<i>Focused on automation, AI-assisted workflows, process standardization and enterprise productivity.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="./assets/divider.png" width="80%" />
-</p>
-
-## Academic Journey
+<h2 align="center">Academic Journey</h2>
 
 <p align="center">
-Curriculum structure of my Bachelor's degree in Systems Analysis and Development at UNIMAR.
+Curriculum structure of my Bachelor's degree in Systems Analysis and Development at <strong>UNIMAR</strong>.
 </p>
 
-### 1st Semester
-<p align="center">
-Design and UX • Entrepreneurship for Innovative Business Models • Software Engineering • Computational Thinking and Programming • Agile Project Factory I • Life Project and Soft Skills I
-</p>
+<table align="center">
+<tr>
+<th align="center" width="33%">1st Semester</th>
+<th align="center" width="33%">2nd Semester</th>
+<th align="center" width="33%">3rd Semester</th>
+</tr>
 
-### 2nd Semester
-<p align="center">
-Database • Web Development • Information Systems Fundamentals • Object-Oriented Programming • Agile Project Factory II • Life Project and Soft Skills II
-</p>
+<tr>
+<td valign="top">
 
-### 3rd Semester
-<p align="center">
-Cloud Computing and DevOps • Data Structures • Software Development Platform • Frontend Technologies • Agile Project Factory III • Life Project and Soft Skills III
-</p>
+Design and UX  
+Entrepreneurship for Innovative Business Models  
+Software Engineering  
+Computational Thinking and Programming  
+Agile Project Factory I  
+Life Project and Soft Skills I  
 
-### 4th Semester
-<p align="center">
-Software Architecture and Full-Stack Development • Design Patterns and Clean Code • Discrete Mathematics • Scientific Thinking • Software Testing and Quality • Agile Project Factory IV • Life Project and Soft Skills IV
-</p>
+</td>
 
-### 5th Semester
-<p align="center">
-Business Administration and Economics • Data Science • Applied Machine Learning • Innovation Methodologies and Tools • Mobile Systems • Agile Project Factory V
-</p>
+<td valign="top">
 
-### 6th Semester
-<p align="center">
-Computer Architecture and IoT • Computer Networks • Operating Systems • Law and Ethics • Agile Project Factory VI
-</p>
+Database  
+Web Development  
+Information Systems Fundamentals  
+Object-Oriented Programming  
+Agile Project Factory II  
+Life Project and Soft Skills II  
+
+</td>
+
+<td valign="top">
+
+Cloud Computing and DevOps  
+Data Structures  
+Software Development Platform  
+Frontend Technologies  
+Agile Project Factory III  
+Life Project and Soft Skills III  
+
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th align="center" width="33%">4th Semester</th>
+<th align="center" width="33%">5th Semester</th>
+<th align="center" width="33%">6th Semester</th>
+</tr>
+
+<tr>
+<td valign="top">
+
+Software Architecture and Full-Stack Development  
+Design Patterns and Clean Code  
+Discrete Mathematics  
+Scientific Thinking  
+Software Testing and Quality  
+Agile Project Factory IV  
+Life Project and Soft Skills IV  
+
+</td>
+
+<td valign="top">
+
+Business Administration and Economics  
+Data Science  
+Applied Machine Learning  
+Innovation Methodologies and Tools  
+Mobile Systems  
+Agile Project Factory V  
+
+</td>
+
+<td valign="top">
+
+Computer Architecture and IoT  
+Computer Networks  
+Operating Systems  
+Law and Ethics  
+Agile Project Factory VI  
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="./assets/divider.png" width="80%" />
-</p>
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andreluiswa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiswa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreluiswa&theme=tokyo-night&hide_border=true&radius=8" />
-</p>
+<h2 align="center">GitHub Statistics</h2>
 
 ---
 
-<p align="center">
-  <img src="./assets/divider.png" width="80%" />
-</p>
-
-## Contact
-
-<p align="center">
-LinkedIn • Email • GitHub
-</p>
-
----
-
-<p align="center">
-  <img src="./assets/pixelcity.png" width="100%" />
-</p>
+<h2 align="center">Contact</h2>
