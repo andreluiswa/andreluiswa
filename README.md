@@ -142,7 +142,6 @@ Design and UX<br>
 Entrepreneurship for Innovative Business Models<br>
 Software Engineering<br>
 Computational Thinking and Programming<br>
-<br>
 Agile Project Factory I<br>
 Life Project and Soft Skills I
 
@@ -154,7 +153,6 @@ Database<br>
 Web Development<br>
 Information Systems Fundamentals<br>
 Object-Oriented Programming<br>
-<br>
 Agile Project Factory II<br>
 Life Project and Soft Skills II
 
@@ -166,7 +164,6 @@ Cloud Computing and DevOps<br>
 Data Structures<br>
 Software Development Platform<br>
 Frontend Technologies<br>
-<br>
 Agile Project Factory III<br>
 Life Project and Soft Skills III
 
@@ -206,7 +203,6 @@ Applied Machine Learning<br>
 Innovation Methodologies and Tools<br>
 Mobile Systems<br>
 Agile Project Factory V<br>
-<br>
 
 </td>
 
@@ -216,7 +212,6 @@ Computer Architecture and IoT<br>
 Computer Networks<br>
 Operating Systems<br>
 Law and Ethics<br>
-<br>
 Agile Project Factory VI<br>
 <br>
 
