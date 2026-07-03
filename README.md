@@ -226,15 +226,15 @@ Agile Project Factory VI
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/andreluiswa1" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:andreluis1wa@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://developers.google.com/" target="_blank">
+  <a href="https://g.dev/andreluiswa" target="_blank">
     <img src="https://skillicons.dev/icons?i=google" />
   </a>
 </p>
