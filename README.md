@@ -15,45 +15,53 @@
 
 ---
 
-## About
+<h2 align="center">About</h2>
 
-I'm a Systems Analysis and Development student at **UNIMAR**, currently working as an **IT Intern** at the **São Paulo State Court of Accounts (TCESP)**.
+<p align="center">
+I'm a Systems Analysis and Development student at <strong>UNIMAR</strong>, currently working as an <strong>IT Intern</strong> at the <strong>São Paulo State Court of Accounts (TCESP)</strong>.
+</p>
 
+<p align="center">
 I enjoy building full-stack applications, automating workflows, and exploring technologies that improve efficiency and solve real-world problems. This profile documents my academic journey, personal projects, and professional growth as I continue expanding my knowledge in software development.
+</p>
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-### Frontend
+<p align="center">
+Technologies and tools I use to build applications and automate workflows.
+</p>
+
+<h3 align="center">Frontend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap" />
 </p>
 
-### Backend
+<h3 align="center">Backend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,cs" />
 </p>
 
-### Database
+<h3 align="center">Database</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
-### Tools
+<h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,cursor" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
-### Design
+<h3 align="center">Design</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma" />
@@ -63,7 +71,7 @@ I enjoy building full-stack applications, automating workflows, and exploring te
   <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" />
 </p>
 
-### Currently Learning
+<h3 align="center">Currently Learning</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,docker,tailwind,fastapi,azure,aws" />
@@ -71,30 +79,20 @@ I enjoy building full-stack applications, automating workflows, and exploring te
 
 ---
 
-## Experience
-
-Coming soon.
+<h2 align="center">Experience</h2>
 
 ---
 
-## University Journey
-
-Coming soon.
+<h2 align="center">University Journey</h2>
 
 ---
 
-## Featured Projects
-
-Coming soon.
+<h2 align="center">Featured Projects</h2>
 
 ---
 
-## GitHub Statistics
-
-Coming soon.
+<h2 align="center">GitHub Statistics</h2>
 
 ---
 
-## Contact
-
-Coming soon.
+<h2 align="center">Contact</h2>
