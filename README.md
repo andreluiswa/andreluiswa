@@ -224,3 +224,17 @@ Agile Project Factory VI
 ---
 
 <h2 align="center">Contact</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://developers.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=google" />
+  </a>
+</p>
