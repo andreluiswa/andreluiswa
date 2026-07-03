@@ -222,10 +222,6 @@ Agile Project Factory VI<br>
 
 ---
 
-<h2 align="center">Featured Projects</h2>
-
----
-
 <h2 align="center">GitHub Statistics</h2>
 
 ---
