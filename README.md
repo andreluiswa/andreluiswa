@@ -232,5 +232,5 @@ Agile Project Factory VI
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=THANK+YOU;FOR+YOUR+ATTENTION!;HAVE+A+GOOD+DAY!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=THANK+YOU+FOR+YOUR+ATTENTION!;HAVE+A+GOOD+DAY/NIGHT!" alt="Typing SVG" />
 </p>
