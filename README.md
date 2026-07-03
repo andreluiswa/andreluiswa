@@ -81,6 +81,44 @@ Technologies and tools I use to build applications and automate workflows.
 
 <h2 align="center">Experience</h2>
 
+<h3 align="center">IT Intern</h3>
+
+<p align="center">
+<strong>São Paulo State Court of Accounts (TCESP)</strong><br>
+Marília, São Paulo • Present
+</p>
+
+<p align="center">
+As an IT Intern at the São Paulo State Court of Accounts (TCESP), I contribute to the development of internal solutions that improve productivity, standardize workflows and support day-to-day operations across the organization.
+</p>
+
+<p align="center">
+My work focuses on developing automation routines using <strong>VBA</strong>, <strong>Windows Batch</strong> and batch scripting to streamline repetitive tasks, process and organize files, automate internal workflows and improve operational efficiency. I also perform data analysis, helping transform operational information into structured and reliable processes for everyday use.
+</p>
+
+<p align="center">
+Another important part of my role is evaluating and creating prompts for the institution's proprietary artificial intelligence platform. This includes analyzing AI responses, refining prompt structures and contributing to the continuous improvement of AI-assisted workflows used internally.
+</p>
+
+<p align="center">
+I am also responsible for creating and maintaining <strong>Standard Operating Procedures (SOPs)</strong>, ensuring process documentation, operational consistency and standardization across the IT department. In addition, I provide technical support to users, troubleshoot software-related issues and assist in the adoption of digital solutions throughout the organization.
+</p>
+
+<p align="center">
+My daily workflow also includes using tools such as <strong>Microsoft Power BI</strong> and <strong>Microsoft Power Automate</strong> for data analysis, reporting and workflow automation whenever applicable.
+</p>
+
+<p align="center">
+<i>Focused on automation, AI-assisted workflows, process standardization and enterprise productivity.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+</p>
+
 ---
 
 <h2 align="center">University Journey</h2>
