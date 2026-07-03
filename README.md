@@ -5,19 +5,21 @@
 <h1 align="center">André Luis</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Development+Student;T.I.+at+TCESP;FullStack+Development;Vue.js+%7C+Python+%7C+MySQL;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Development+Student;IT+Intern+at+TCESP;Full-Stack+Development;Vue.js+%7C+Python+%7C+MySQL;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Análise e Desenvolvimento de Sistemas</strong> • UNIMAR<br>
-  <strong>T.I.</strong> • Tribunal de Contas do Estado de São Paulo
+  <strong>Systems Analysis and Development</strong> • UNIMAR<br>
+  <strong>IT Intern</strong> • São Paulo State Court of Accounts (TCESP)
 </p>
 
 ---
 
 ## About
 
-> Em construção.
+I'm a Systems Analysis and Development student at **UNIMAR**, currently working as an **IT Intern** at the **São Paulo State Court of Accounts (TCESP)**.
+
+I enjoy building full-stack applications, automating workflows, and exploring technologies that improve efficiency and solve real-world problems. This profile documents my academic journey, personal projects, and professional growth as I continue expanding my knowledge in software development.
 
 ---
 
@@ -25,50 +27,50 @@
 
 ### Front-end
 
-Em construção.
+Coming soon.
 
 ### Back-end
 
-Em construção.
+Coming soon.
 
 ### Database
 
-Em construção.
+Coming soon.
 
 ### Tools
 
-Em construção.
+Coming soon.
 
 ### Design
 
-Em construção.
+Coming soon.
 
 ---
 
 ## Experience
 
-Em construção.
+Coming soon.
 
 ---
 
 ## University Journey
 
-Em construção.
+Coming soon.
 
 ---
 
 ## Featured Projects
 
-Em construção.
+Coming soon.
 
 ---
 
 ## GitHub Statistics
 
-Em construção.
+Coming soon.
 
 ---
 
 ## Contact
 
-Em construção.
+Coming soon.
