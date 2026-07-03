@@ -89,23 +89,23 @@ Marília, São Paulo • Present
 </p>
 
 <p align="center">
-As an IT Intern at the São Paulo State Court of Accounts (TCESP), I contribute to the development of internal solutions that improve productivity, standardize workflows and support day-to-day operations across the organization.
+As an IT Intern at the São Paulo State Court of Accounts (TCESP), I contribute to the development of internal solutions focused on automation, productivity and process standardization, helping optimize day-to-day operations across the organization.
 </p>
 
 <p align="center">
-My work focuses on developing automation routines using <strong>VBA</strong>, <strong>Windows Batch</strong> and batch scripting to streamline repetitive tasks, process and organize files, automate internal workflows and improve operational efficiency. I also perform data analysis, helping transform operational information into structured and reliable processes for everyday use.
+My responsibilities include developing automation routines using <strong>VBA</strong>, <strong>Windows Batch</strong> and batch scripting to eliminate repetitive tasks, process and organize files, automate internal workflows and improve operational efficiency. I also perform data analysis, transforming operational information into structured, reliable and efficient processes.
 </p>
 
 <p align="center">
-Another important part of my role is evaluating and creating prompts for the institution's proprietary artificial intelligence platform. This includes analyzing AI responses, refining prompt structures and contributing to the continuous improvement of AI-assisted workflows used internally.
+Another important part of my work is evaluating and creating prompts for the institution's proprietary Artificial Intelligence platform. This involves analyzing AI responses, refining prompt structures and contributing to the continuous improvement of AI-assisted workflows used internally.
 </p>
 
 <p align="center">
-I am also responsible for creating and maintaining <strong>Standard Operating Procedures (SOPs)</strong>, ensuring process documentation, operational consistency and standardization across the IT department. In addition, I provide technical support to users, troubleshoot software-related issues and assist in the adoption of digital solutions throughout the organization.
+I am responsible for creating and maintaining <strong>Standard Operating Procedures (SOPs)</strong>, ensuring documentation quality, operational consistency and process standardization throughout the IT department. Additionally, I provide technical support to users, assist with software-related issues and help implement digital solutions that improve the organization's daily workflow.
 </p>
 
 <p align="center">
-My daily workflow also includes using tools such as <strong>Microsoft Power BI</strong> and <strong>Microsoft Power Automate</strong> for data analysis, reporting and workflow automation whenever applicable.
+My daily activities also involve using <strong>Microsoft Power BI</strong> and <strong>Microsoft Power Automate</strong> to support data analysis, reporting and workflow automation whenever applicable.
 </p>
 
 <p align="center">
