@@ -25,25 +25,41 @@ I enjoy building full-stack applications, automating workflows, and exploring te
 
 ## Tech Stack
 
-### Front-end
+### Frontend
 
-Coming soon.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap" />
+</p>
 
-### Back-end
+### Backend
 
-Coming soon.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,php,cs" />
+</p>
 
 ### Database
 
-Coming soon.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
 
 ### Tools
 
-Coming soon.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
+</p>
 
 ### Design
 
-Coming soon.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
 
 ---
 
