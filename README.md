@@ -42,7 +42,7 @@ Technologies and tools I use to build applications and automate workflows.
 <h3 align="center">Backend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,cs" />
+  <img src="https://skillicons.dev/icons?i=python,php,cs,.net" />
 </p>
 
 <h3 align="center">Database</h3>
