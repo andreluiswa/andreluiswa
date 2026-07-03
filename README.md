@@ -131,7 +131,7 @@ Curriculum structure of my Bachelor's degree in Systems Analysis and Development
 <tr>
 <th align="center" width="33%">1st Semester</th>
 <th align="center" width="33%">2nd Semester</th>
-<th align="center" width="33%">3rd Semester<br></th>
+<th align="center" width="33%">3rd Semester</th>
 </tr>
 
 <tr>
@@ -202,7 +202,7 @@ Data Science<br>
 Applied Machine Learning<br>
 Innovation Methodologies and Tools<br>
 Mobile Systems<br>
-Agile Project Factory V<br>
+Agile Project Factory V
 
 </td>
 
@@ -223,6 +223,19 @@ Agile Project Factory VI<br>
 ---
 
 <h2 align="center">GitHub Statistics</h2>
+
+<p align="center">
+A quick overview of my GitHub activity, programming languages and contribution history.
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andreluiswa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiswa&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=andreluiswa&theme=github-dark&hide_border=true&radius=8" />
+</p>
 
 ---
 
