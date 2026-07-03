@@ -123,44 +123,52 @@ My daily activities also involve using <strong>Microsoft Power BI</strong> and <
 
 <h2 align="center">Academic Journey</h2>
 
+<p align="center">
+Curriculum structure of my Bachelor's degree in Systems Analysis and Development at <strong>UNIMAR</strong>.
+</p>
+
 <table align="center">
 <tr>
-<th align="center">1st Semester</th>
-<th align="center">2nd Semester</th>
-<th align="center">3rd Semester (Current)</th>
+<th align="center" width="33%">1st Semester</th>
+<th align="center" width="33%">2nd Semester</th>
+<th align="center" width="33%">3rd Semester<br><sub>Current</sub></th>
 </tr>
 
 <tr>
-<td valign="top">
 
-- Design and UX
-- Entrepreneurship for Innovative Business Models
-- Software Engineering
-- Agile Project Factory I
-- Computational Thinking and Programming
-- Life Project and Soft Skills I
+<td width="33%" valign="top">
 
-</td>
-
-<td valign="top">
-
-- Database
-- Web Development
-- Information Systems Fundamentals
-- Object-Oriented Programming
-- Agile Project Factory II
-- Life Project and Soft Skills II
+Design and UX<br>
+Entrepreneurship for Innovative Business Models<br>
+Software Engineering<br>
+Computational Thinking and Programming<br>
+<br>
+Agile Project Factory I<br>
+Life Project and Soft Skills I
 
 </td>
 
-<td valign="top">
+<td width="33%" valign="top">
 
-- Cloud Computing and DevOps
-- Data Structures
-- Agile Project Factory III
-- Software Development Platform
-- Frontend Technologies
-- Life Project and Soft Skills III
+Database<br>
+Web Development<br>
+Information Systems Fundamentals<br>
+Object-Oriented Programming<br>
+<br>
+Agile Project Factory II<br>
+Life Project and Soft Skills II
+
+</td>
+
+<td width="33%" valign="top">
+
+Cloud Computing and DevOps<br>
+Data Structures<br>
+Software Development Platform<br>
+Frontend Technologies<br>
+<br>
+Agile Project Factory III<br>
+Life Project and Soft Skills III
 
 </td>
 
@@ -171,42 +179,46 @@ My daily activities also involve using <strong>Microsoft Power BI</strong> and <
 
 <table align="center">
 <tr>
-<th align="center">4th Semester</th>
-<th align="center">5th Semester</th>
-<th align="center">6th Semester</th>
+<th align="center" width="33%">4th Semester</th>
+<th align="center" width="33%">5th Semester</th>
+<th align="center" width="33%">6th Semester</th>
 </tr>
 
 <tr>
-<td valign="top">
 
-- Software Architecture and Full-Stack Development
-- Design Patterns and Clean Code
-- Agile Project Factory IV
-- Discrete Mathematics
-- Scientific Thinking
-- Software Testing and Quality
-- Life Project and Soft Skills IV
+<td width="33%" valign="top">
 
-</td>
-
-<td valign="top">
-
-- Business Administration and Economics
-- Data Science
-- Agile Project Factory V
-- Applied Machine Learning
-- Innovation Methodologies and Tools
-- Mobile Systems
+Software Architecture and Full-Stack Development<br>
+Design Patterns and Clean Code<br>
+Discrete Mathematics<br>
+Scientific Thinking<br>
+Software Testing and Quality<br>
+Agile Project Factory IV<br>
+Life Project and Soft Skills IV
 
 </td>
 
-<td valign="top">
+<td width="33%" valign="top">
 
-- Computer Architecture and IoT
-- Law and Ethics
-- Agile Project Factory VI
-- Computer Networks
-- Operating Systems
+Business Administration and Economics<br>
+Data Science<br>
+Applied Machine Learning<br>
+Innovation Methodologies and Tools<br>
+Mobile Systems<br>
+Agile Project Factory V<br>
+<br>
+
+</td>
+
+<td width="33%" valign="top">
+
+Computer Architecture and IoT<br>
+Computer Networks<br>
+Operating Systems<br>
+Law and Ethics<br>
+<br>
+Agile Project Factory VI<br>
+<br>
 
 </td>
 
