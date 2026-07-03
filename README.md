@@ -131,7 +131,7 @@ Curriculum structure of my Bachelor's degree in Systems Analysis and Development
 <tr>
 <th align="center" width="33%">1st Semester</th>
 <th align="center" width="33%">2nd Semester</th>
-<th align="center" width="33%">3rd Semester<br><sub>Current</sub></th>
+<th align="center" width="33%">3rd Semester<br></th>
 </tr>
 
 <tr>
