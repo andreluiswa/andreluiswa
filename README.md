@@ -228,9 +228,12 @@ Agile Project Factory VI
 <p align="center">
 
   <a href="https://www.linkedin.com/in/andreluiswa1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <a href="https://g.dev/andreluiswa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail,google" width="40" />
     <br>
     LinkedIn
+    Google Dev
+    andreluis1wa@gmail.com
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
