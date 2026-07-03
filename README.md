@@ -21,15 +21,6 @@
 
 ---
 
-## Current
-
-- **Education:** Análise e Desenvolvimento de Sistemas — UNIMAR
-- **Semester:** 3º Termo
-- **Role:** Technology Intern @ TCESP
-- **Currently Learning:** Python, Cloud Computing, DevOps, C#
-
----
-
 ## Tech Stack
 
 ### Front-end
