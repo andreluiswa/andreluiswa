@@ -225,4 +225,6 @@ Agile Project Factory VI
 
 <h2 align="center">Contact</h2>
 
-  <img src="https://skillicons.dev/icons?i=linkedin,gmail,google-logo" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+</p>
