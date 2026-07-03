@@ -27,38 +27,46 @@ I enjoy building full-stack applications, automating workflows, and exploring te
 
 ### Frontend
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap" />
 </p>
 
 ### Backend
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,cs" />
 </p>
 
 ### Database
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
 ### Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
 ### Design
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" />
 </p>
 
 ### Currently Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,docker,tailwind,fastapi,azure,aws" />
 </p>
 
 ---
