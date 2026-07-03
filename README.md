@@ -233,15 +233,11 @@ Agile Project Factory VI
     LinkedIn
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="mailto:andreluis1wa@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
     <br>
     Email
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://g.dev/andreluiswa" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="40" />
