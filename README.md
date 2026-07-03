@@ -121,7 +121,97 @@ My daily activities also involve using <strong>Microsoft Power BI</strong> and <
 
 ---
 
-<h2 align="center">University Journey</h2>
+<h2 align="center">Academic Journey</h2>
+
+<table align="center">
+<tr>
+<th align="center">1st Semester</th>
+<th align="center">2nd Semester</th>
+<th align="center">3rd Semester (Current)</th>
+</tr>
+
+<tr>
+<td valign="top">
+
+- Design and UX
+- Entrepreneurship for Innovative Business Models
+- Software Engineering
+- Agile Project Factory I
+- Computational Thinking and Programming
+- Life Project and Soft Skills I
+
+</td>
+
+<td valign="top">
+
+- Database
+- Web Development
+- Information Systems Fundamentals
+- Object-Oriented Programming
+- Agile Project Factory II
+- Life Project and Soft Skills II
+
+</td>
+
+<td valign="top">
+
+- Cloud Computing and DevOps
+- Data Structures
+- Agile Project Factory III
+- Software Development Platform
+- Frontend Technologies
+- Life Project and Soft Skills III
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<th align="center">4th Semester</th>
+<th align="center">5th Semester</th>
+<th align="center">6th Semester</th>
+</tr>
+
+<tr>
+<td valign="top">
+
+- Software Architecture and Full-Stack Development
+- Design Patterns and Clean Code
+- Agile Project Factory IV
+- Discrete Mathematics
+- Scientific Thinking
+- Software Testing and Quality
+- Life Project and Soft Skills IV
+
+</td>
+
+<td valign="top">
+
+- Business Administration and Economics
+- Data Science
+- Agile Project Factory V
+- Applied Machine Learning
+- Innovation Methodologies and Tools
+- Mobile Systems
+
+</td>
+
+<td valign="top">
+
+- Computer Architecture and IoT
+- Law and Ethics
+- Agile Project Factory VI
+- Computer Networks
+- Operating Systems
+
+</td>
+
+</tr>
+</table>
 
 ---
 
