@@ -240,7 +240,7 @@ Agile Project Factory VI
 </p>
 
 <p align="center">
-  📧 <code>andreluis1wa@gmail.com</code>
+  <code>andreluis1wa@gmail.com</code>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  📱 <code>+55 (14) 99654-8941</code>
+  <code>+55(14)99654-8941</code>
 </p>
