@@ -229,17 +229,12 @@ Agile Project Factory VI
   <a href="https://www.linkedin.com/in/andreluiswa1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
+
   <a href="mailto:andreluis1wa@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://wa.me/5514SEUNUMERO" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="48" />
+  <a href="https://wa.me/5514XXXXXXXXX" target="_blank">
+    <img width="48" height="48" src="https://cdn.simpleicons.org/whatsapp/25D366" />
   </a>
-</p>
-
-<p align="center">
-  <strong>Email:</strong> andreluis1wa@gmail.com •
-  <strong>Phone:</strong> +55 (14) XXXXX-XXXX
 </p>
