@@ -227,16 +227,12 @@ Agile Project Factory VI
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=End+of+Transmission" />
-</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=Thank+you+for+visiting+my+profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=End+of+Transmission;Thank+you+for+visiting+my+profile" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=500&pause=0&color=58A6FF&center=true&vCenter=true&repeat=true&width=120&lines=%5B+%5D;%5B%3D+%5D;%5B%3D%3D+%5D;%5B%3D%3D%3D+%5D;%5B%3D%3D%3D%3D+%5D;%5B%3D%3D%3D%3D%3D+%5D" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=450&pause=0&color=58A6FF&center=true&vCenter=true&width=150&lines=%5B+++++%5D;%5B%3D++++%5D;%5B%3D%3D+++%5D;%5B%3D%3D%3D++%5D;%5B%3D%3D%3D%3D+%5D;%5B%3D%3D%3D%3D%3D%5D" alt="Loading" />
 </p>
 
 ---
