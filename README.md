@@ -215,10 +215,33 @@ Agile Project Factory VI
 
 ---
 
-<h2 align="center">GitHub Statistics</h2>
+<h2 align="center">Character Sheet</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreluiswa&theme=tokyo-night&hide_border=true&radius=8" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Class:+Full-Stack+Apprentice;Guild:+TCESP;Specialization:+Automation+and+Development;Current+Quest:+Become+a+Full-Stack+Engineer;Side+Quest:+Master+Cloud+Computing;Status:+Always+Learning" />
+</p>
+
+<div align="center">
+
+```text
++--------------------------------------------------+
+|                  CHARACTER SHEET                 |
++--------------------------------------------------+
+| Name   : Andre Luis                              |
+| Class  : Full-Stack Apprentice                   |
+| Guild  : TCESP                                   |
+| Status : Always Learning                         |
++--------------------------------------------------+
+| HP      [====================] Python Familiar   |
+| STA     [==================--] Coffee Reserve    |
+| MP      [===================-] Knowledge Points  |
++--------------------------------------------------+
+```
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Inventory:+Python+x120;Inventory:+Vue.js+x75;Inventory:+MySQL+x65;Inventory:+Git+x80;Inventory:+Figma+x25;Inventory:+Power+BI+x40;Inventory:+Power+Automate+x35;Unlocking:+React;Unlocking:+Docker;Unlocking:+AWS+and+Azure" />
 </p>
 
 ---
