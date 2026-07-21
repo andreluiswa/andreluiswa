@@ -226,11 +226,15 @@ Agile Project Factory VI
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+  <a href="https://www.linkedin.com/in/andreluiswa1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:andreluis1wa@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=THANK+YOU+FOR+YOUR+ATTENTION!;HAVE+A+GOOD+DAY!" alt="Typing SVG" />
+  <code>andreluis1wa@gmail.com</code>
 </p>
