@@ -240,6 +240,7 @@ Agile Project Factory VI
 </p>
 
 <p align="center">
-  📧 <strong>Email:</strong> andreluis1wa@gmail.com &nbsp;•&nbsp;
-  📱 <strong>Phone:</strong> +55 (14) XXXXX-XXXX
+  📧 <code>andreluis1wa@gmail.com</code>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  📱 <code>+55 (14) XXXXX-XXXX</code>
 </p>
