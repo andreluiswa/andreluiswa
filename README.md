@@ -228,11 +228,11 @@ Agile Project Factory VI
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=End+of+Transmission;Thank+you+for+visiting+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=End+of+Transmission;Thank+you+for+visiting+my+profile" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=450&pause=0&color=58A6FF&center=true&vCenter=true&width=150&lines=%5B+++++%5D;%5B%3D++++%5D;%5B%3D%3D+++%5D;%5B%3D%3D%3D++%5D;%5B%3D%3D%3D%3D+%5D;%5B%3D%3D%3D%3D%3D%5D" alt="Loading" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=150&pause=0&color=58A6FF&center=true&vCenter=true&width=40&lines=%7C;%2F;-%3B%5C" />
 </p>
 
 ---
