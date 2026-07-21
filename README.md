@@ -227,10 +227,8 @@ Agile Project Factory VI
 
 ---
 
-<h2 align="center">End of Transmission</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1200&pause=0&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=Loading+next+project.;Loading+next+project..;Loading+next+project..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=900&pause=0&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=while(true)+%7B+learn();+build();+improve();+%7D" />
 </p>
 
 <p align="center">
@@ -238,11 +236,7 @@ Thank you for visiting my profile.
 </p>
 
 <p align="center">
-I appreciate your time and interest in my work.
-</p>
-
-<p align="center">
-See you in the next commit.
+Always learning. Always building.
 </p>
 
 ---
