@@ -228,9 +228,9 @@ Agile Project Factory VI
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=END+OF+TRANSMISSION...;THANK+YOU;FOR+VISITING+MY+PROFILE" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=THANK+YOU!;FOR+VISITING+MY+PROFILE!;END+OF+TRANSMISSION." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=150&pause=0&color=58A6FF&center=true&vCenter=true&width=40&lines=%7C;%2F;-%3B%5C" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=150&pause=2&color=58A6FF&center=true&vCenter=true&width=40&lines=%7C;%2F;-%3B%5C" />
 </p>
