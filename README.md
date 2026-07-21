@@ -236,7 +236,7 @@ Agile Project Factory VI
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=700&pause=0&color=58A6FF&center=true&vCenter=true&repeat=true&width=250&lines=Loading.;Loading..;Loading..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=500&pause=0&color=58A6FF&center=true&vCenter=true&repeat=true&width=120&lines=%5B+%5D;%5B%3D+%5D;%5B%3D%3D+%5D;%5B%3D%3D%3D+%5D;%5B%3D%3D%3D%3D+%5D;%5B%3D%3D%3D%3D%3D+%5D" />
 </p>
 
 ---
