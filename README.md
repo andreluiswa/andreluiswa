@@ -235,7 +235,7 @@ Agile Project Factory VI
   </a>
 
   <a href="https://wa.me/5514996548941" target="_blank">
-    <img width="48" height="48" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" />
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" />
   </a>
 </p>
 
