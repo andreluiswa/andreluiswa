@@ -227,14 +227,19 @@ Agile Project Factory VI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andreluiswa1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 
   <a href="mailto:andreluis1wa@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 
-  <a href="https://wa.me/5514XXXXXXXXX" target="_blank">
-    <img width="48" height="48" src="https://cdn.simpleicons.org/whatsapp/25D366" />
+  <a href="https://wa.me/55SEUNUMERO" target="_blank">
+    <img width="48" height="48" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" />
   </a>
+</p>
+
+<p align="center">
+  📧 <strong>Email:</strong> andreluis1wa@gmail.com &nbsp;•&nbsp;
+  📱 <strong>Phone:</strong> +55 (14) XXXXX-XXXX
 </p>
