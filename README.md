@@ -234,7 +234,7 @@ Agile Project Factory VI
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 
-  <a href="https://wa.me/55SEUNUMERO" target="_blank">
+  <a href="https://wa.me/5514996548941" target="_blank">
     <img width="48" height="48" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" />
   </a>
 </p>
