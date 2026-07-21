@@ -234,5 +234,3 @@ Agile Project Factory VI
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=150&pause=0&color=58A6FF&center=true&vCenter=true&width=40&lines=%7C;%2F;-%3B%5C" />
 </p>
-
----
